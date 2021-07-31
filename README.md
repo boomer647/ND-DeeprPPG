@@ -12,6 +12,9 @@ Middle face: [1 2 3 4 30 12 13 14 15, 45 46 47 42 28 39 40 41 36]
 Lower face: [3:13 35 31]
 
 Forehead: [18:25]
+  The bottom edge (W) of forehead region is the eight landmarks on eyebrow. The height (H) is determined by the distance between landmark 27 and 30
 
 Background regions:[0 2 16 14]
+  The size (H=W) of background regions is determined by the distance between landmark 19 and 24
+  
 
